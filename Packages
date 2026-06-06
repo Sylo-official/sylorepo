@@ -1,6 +1,9 @@
 Package: sylomap
 Version: 1.0.1
-Architecture: all
+Architecture: aarch64
 Maintainer: Sylo
 Filename: sylomap.deb
+Size: <SIZE>
+MD5sum: <0c0e9761d4fa17ab752b269852ea8f4c>
+SHA256: <53d93e38d17cff4dbd0ae7e147c7299b866f83a6ed0302c92b82de6d4992c375>
 Description: Sylomap CLI tool
