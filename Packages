@@ -1,0 +1,6 @@
+Package: sylomap
+Version: 1.0
+Architecture: all
+Maintainer: Sylo
+Filename: sylomap.deb
+Description: Sylomap CLI tool
