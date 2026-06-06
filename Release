@@ -1,0 +1,7 @@
+Origin: Sylomap
+Label: Sylomap
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Sylomap Repository
