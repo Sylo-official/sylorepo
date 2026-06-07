@@ -1,11 +1,22 @@
 Package: sylomap
-Version: 1.0.1
-Architecture: aarch64
+Version: 1.0.0
+Architecture: all
 Maintainer: Sylo
 Filename: sylomap.deb
 Size: 880
-Installed-Size: 1
+Installed-Size: 
 MD5sum: 0c0e9761d4fa17ab752b269852ea8f4c
 SHA256: 53d93e38d17cff4dbd0ae7e147c7299b866f83a6ed0302c92b82de6d4992c375
-Description: Sylomap CLI tool
+Description: simple domain resolver
+
+Package: testpkg
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: Sylo
+Filename: testpkg.deb
+Size: 872
+Installed-Size: 1
+MD5sum: 8ea9b74b9edfdb421d7cf66c2f680ed3
+SHA256: 2abbd1c74f3fcbaa81ef26824b2b0de60e3c238cdc806829cd36ee222a54219a
+Description: A test package for Sylo
 

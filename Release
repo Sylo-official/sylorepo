@@ -1,7 +1,16 @@
-Origin: Sylomap
-Label: Sylomap
+Origin: Sylo Repo
+Label: Sylo Repo
 Suite: stable
 Codename: stable
-Architectures: all
+Date: Sun, 07 Jun 2026 07:02:55 +0000
+Architectures: aarch64
 Components: main
-Description: Sylomap Repository
+Description: Sylo Package Repository
+
+MD5Sum:
+ e82aa380ff59440de6d191e51351852b 540 Packages
+ 6e9c1fe96aa197e2d9b307a076df809e 344 Packages.gz
+
+SHA256:
+ 4f7b7d5b25dedd3b06844ba86a6fa3a73302706d5d37c7d008c867495d8a8cbd 540 Packages
+ 28f0a89535915c567072b54903560927a9dee61acdbf2688310dd76408e58926 344 Packages.gz
